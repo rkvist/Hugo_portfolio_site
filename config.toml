@@ -2,6 +2,7 @@ baseURL = "http://www.rasmuskvist.dk/portfolio_hugo/"
 languageCode = "en-us"
 title = "My New Hugo Site" 
 theme = "forty"
+publishDir = "docs"
 
 # Enter your tracking code to enable Google Analytics
 googleAnalytics = ""
